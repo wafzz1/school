@@ -2,3 +2,416 @@
  * Running on http://127.0.0.1:5000
 2024-07-09 17:21:55,361 - INFO - [33mPress CTRL+C to quit[0m
 2024-07-09 17:21:55,370 - INFO -  * Restarting with stat
+2024-07-11 12:01:15,924 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:01:15,925 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:01:15,933 - INFO -  * Restarting with stat
+2024-07-11 12:03:18,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:03:18,825 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:03:18,831 - INFO -  * Restarting with stat
+2024-07-11 12:06:05,236 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:06:05,236 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:06:05,242 - INFO -  * Restarting with stat
+2024-07-11 12:07:25,998 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:07:25,998 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:07:34,441 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:07:34,442 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:07:34,448 - INFO -  * Restarting with stat
+2024-07-11 12:07:50,806 - INFO - 127.0.0.1 - - [11/Jul/2024 12:07:50] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-11 12:07:50,874 - INFO - 127.0.0.1 - - [11/Jul/2024 12:07:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-11 12:08:11,509 - INFO - 127.0.0.1 - - [11/Jul/2024 12:08:11] "POST /login HTTP/1.1" 200 -
+2024-07-11 12:18:10,470 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 12:18:10,885 - INFO -  * Restarting with stat
+2024-07-11 12:32:43,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:32:43,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:32:43,392 - INFO -  * Restarting with stat
+2024-07-11 12:33:23,179 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 12:33:23,640 - INFO -  * Restarting with stat
+2024-07-11 12:36:17,466 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:36:17,466 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:36:17,472 - INFO -  * Restarting with stat
+2024-07-11 12:36:57,870 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 12:36:57,870 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 12:36:57,876 - INFO -  * Restarting with stat
+2024-07-11 12:37:30,480 - INFO - 127.0.0.1 - - [11/Jul/2024 12:37:30] "POST /login HTTP/1.1" 200 -
+2024-07-11 12:38:18,997 - INFO - 127.0.0.1 - - [11/Jul/2024 12:38:18] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 12:38:32,214 - INFO - 127.0.0.1 - - [11/Jul/2024 12:38:32] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 12:39:50,873 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 12:39:51,142 - INFO -  * Restarting with stat
+2024-07-11 12:39:55,862 - INFO - 127.0.0.1 - - [11/Jul/2024 12:39:55] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 12:52:16,992 - INFO - 127.0.0.1 - - [11/Jul/2024 12:52:16] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 12:52:23,790 - INFO - 127.0.0.1 - - [11/Jul/2024 12:52:23] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 12:54:40,336 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\models.py', reloading
+2024-07-11 12:54:40,872 - INFO -  * Restarting with stat
+2024-07-11 13:00:34,230 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:00:34,735 - INFO -  * Restarting with stat
+2024-07-11 13:01:27,898 - INFO - 127.0.0.1 - - [11/Jul/2024 13:01:27] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 13:02:00,975 - INFO - 127.0.0.1 - - [11/Jul/2024 13:02:00] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 13:02:23,680 - INFO - 127.0.0.1 - - [11/Jul/2024 13:02:23] "POST /login HTTP/1.1" 200 -
+2024-07-11 13:07:30,038 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:07:30,439 - INFO -  * Restarting with stat
+2024-07-11 13:10:19,062 - INFO - 127.0.0.1 - - [11/Jul/2024 13:10:19] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 13:10:56,412 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:10:56,853 - INFO -  * Restarting with stat
+2024-07-11 13:26:25,838 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:26:26,429 - INFO -  * Restarting with stat
+2024-07-11 13:28:44,614 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:28:44,961 - INFO -  * Restarting with stat
+2024-07-11 13:28:59,260 - INFO - 127.0.0.1 - - [11/Jul/2024 13:28:59] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 401 -
+2024-07-11 13:29:21,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:29:21,397 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:29:21,402 - INFO -  * Restarting with stat
+2024-07-11 13:29:25,821 - INFO - 127.0.0.1 - - [11/Jul/2024 13:29:25] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 401 -
+2024-07-11 13:33:50,516 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:33:50,516 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:33:50,522 - INFO -  * Restarting with stat
+2024-07-11 13:33:55,293 - INFO - 127.0.0.1 - - [11/Jul/2024 13:33:55] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 13:34:56,301 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:34:56,738 - INFO -  * Restarting with stat
+2024-07-11 13:34:59,551 - INFO - 127.0.0.1 - - [11/Jul/2024 13:34:59] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 401 -
+2024-07-11 13:42:45,120 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:42:45,675 - INFO -  * Restarting with stat
+2024-07-11 13:47:13,686 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 13:47:14,209 - INFO -  * Restarting with stat
+2024-07-11 13:47:18,145 - INFO - 127.0.0.1 - - [11/Jul/2024 13:47:18] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 400 -
+2024-07-11 13:48:22,864 - INFO - 127.0.0.1 - - [11/Jul/2024 13:48:22] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 400 -
+2024-07-11 14:35:36,827 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 14:35:37,494 - INFO -  * Restarting with stat
+2024-07-11 14:35:44,799 - INFO - 127.0.0.1 - - [11/Jul/2024 14:35:44] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 400 -
+2024-07-11 14:37:31,075 - INFO - 127.0.0.1 - - [11/Jul/2024 14:37:31] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 14:37:59,159 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 14:37:59,473 - INFO -  * Restarting with stat
+2024-07-11 14:38:03,412 - INFO - 127.0.0.1 - - [11/Jul/2024 14:38:03] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 14:38:51,628 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 14:38:52,021 - INFO -  * Restarting with stat
+2024-07-11 14:38:55,585 - INFO - 127.0.0.1 - - [11/Jul/2024 14:38:55] "[35m[1mPOST /login/credentials HTTP/1.1[0m" 500 -
+2024-07-11 14:38:55,637 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 363, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    application_iter = app(environ, start_response)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 948, in app
+    raise err from None
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 937, in run_command
+    app: WSGIApplication = info.load_app()
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 339, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\wsgi.py", line 1, in <module>
+    from school import school
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\school.py", line 11, in <module>
+    from signup import routes
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\signup\routes.py", line 55
+    "data": []  # Assuming to_dict() method exists in your model
+            ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+2024-07-11 14:39:18,744 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-11 14:39:19,186 - INFO -  * Restarting with stat
+2024-07-11 14:39:21,938 - INFO - 127.0.0.1 - - [11/Jul/2024 14:39:21] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 14:40:29,646 - INFO - 127.0.0.1 - - [11/Jul/2024 14:40:29] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-11 14:40:45,567 - INFO - 127.0.0.1 - - [11/Jul/2024 14:40:45] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 14:41:55,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-15 14:41:55,770 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-15 14:41:55,781 - INFO -  * Restarting with stat
+2024-07-15 14:42:01,044 - INFO - 127.0.0.1 - - [15/Jul/2024 14:42:01] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 15:44:57,699 - INFO - Received JSON data: {'school_id': '1', 'school_name': 'wiras', 'school_address': 'kannur'}
+2024-07-15 15:44:57,707 - INFO - School name: None, School address: None
+2024-07-15 15:44:57,708 - INFO - 127.0.0.1 - - [15/Jul/2024 15:44:57] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:46:40,200 - INFO - Received JSON data: {'school_id': '2', 'school_name': 'payyanur college', 'school_address': 'payyanur'}
+2024-07-15 15:46:40,206 - INFO - School name: None, School address: None
+2024-07-15 15:46:40,207 - INFO - 127.0.0.1 - - [15/Jul/2024 15:46:40] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:49:34,414 - INFO - Received JSON data: {'school_id': '2', 'schoolname': 'payyanur college', 'address': 'payyanur'}
+2024-07-15 15:49:34,418 - INFO - School name: payyanur college, School address: payyanur
+2024-07-15 15:49:34,418 - INFO - 127.0.0.1 - - [15/Jul/2024 15:49:34] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:50:12,910 - INFO - Received JSON data: {'school_id': '1', 'schoolname': 'payyanur college', 'school_address': 'payyanur'}
+2024-07-15 15:50:12,913 - INFO - School name: payyanur college, School address: None
+2024-07-15 15:50:12,914 - INFO - 127.0.0.1 - - [15/Jul/2024 15:50:12] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:50:32,148 - INFO - Received JSON data: {'school_id': '1', 'schoolname': 'payyanur college', 'address': 'payyanur'}
+2024-07-15 15:50:32,153 - INFO - School name: payyanur college, School address: payyanur
+2024-07-15 15:50:32,153 - INFO - 127.0.0.1 - - [15/Jul/2024 15:50:32] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:50:55,894 - INFO - Received JSON data: {'school_id': '2', 'schoolname': 'wiras', 'address': 'kannur'}
+2024-07-15 15:50:55,897 - INFO - School name: wiras, School address: kannur
+2024-07-15 15:50:55,898 - INFO - 127.0.0.1 - - [15/Jul/2024 15:50:55] "POST /create/school HTTP/1.1" 200 -
+2024-07-15 15:51:21,408 - INFO - 127.0.0.1 - - [15/Jul/2024 15:51:21] "GET /school HTTP/1.1" 200 -
+2024-07-15 15:55:03,353 - INFO - 127.0.0.1 - - [15/Jul/2024 15:55:03] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 15:55:28,303 - INFO - 127.0.0.1 - - [15/Jul/2024 15:55:28] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 15:56:15,070 - INFO - 127.0.0.1 - - [15/Jul/2024 15:56:15] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 15:56:49,344 - INFO - 127.0.0.1 - - [15/Jul/2024 15:56:49] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 15:57:12,830 - INFO - 127.0.0.1 - - [15/Jul/2024 15:57:12] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 15:57:49,740 - INFO - 127.0.0.1 - - [15/Jul/2024 15:57:49] "POST /create/course HTTP/1.1" 200 -
+2024-07-15 16:09:17,178 - INFO - 127.0.0.1 - - [15/Jul/2024 16:09:17] "POST /create/student HTTP/1.1" 200 -
+2024-07-15 16:10:05,425 - INFO - 127.0.0.1 - - [15/Jul/2024 16:10:05] "POST /create/student HTTP/1.1" 200 -
+2024-07-15 16:10:42,481 - INFO - 127.0.0.1 - - [15/Jul/2024 16:10:42] "POST /create/student HTTP/1.1" 200 -
+2024-07-15 16:11:56,198 - INFO - 127.0.0.1 - - [15/Jul/2024 16:11:56] "POST /create/student HTTP/1.1" 200 -
+2024-07-15 16:12:31,777 - INFO - 127.0.0.1 - - [15/Jul/2024 16:12:31] "POST /create/student HTTP/1.1" 200 -
+2024-07-15 16:15:23,234 - INFO - 127.0.0.1 - - [15/Jul/2024 16:15:23] "POST /login HTTP/1.1" 200 -
+2024-07-15 16:15:58,334 - INFO - 127.0.0.1 - - [15/Jul/2024 16:15:58] "POST /login HTTP/1.1" 200 -
+2024-07-15 16:16:23,015 - INFO - 127.0.0.1 - - [15/Jul/2024 16:16:23] "POST /login HTTP/1.1" 200 -
+2024-07-15 16:16:43,313 - INFO - 127.0.0.1 - - [15/Jul/2024 16:16:43] "POST /login HTTP/1.1" 200 -
+2024-07-15 16:17:11,091 - INFO - 127.0.0.1 - - [15/Jul/2024 16:17:11] "POST /login HTTP/1.1" 200 -
+2024-07-15 16:18:07,102 - INFO - 127.0.0.1 - - [15/Jul/2024 16:18:07] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 16:18:18,091 - INFO - 127.0.0.1 - - [15/Jul/2024 16:18:18] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 16:18:46,093 - INFO - 127.0.0.1 - - [15/Jul/2024 16:18:46] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 16:20:14,207 - INFO - 127.0.0.1 - - [15/Jul/2024 16:20:14] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 16:21:51,937 - INFO - 127.0.0.1 - - [15/Jul/2024 16:21:51] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 16:25:56,411 - INFO - 127.0.0.1 - - [15/Jul/2024 16:25:56] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 16:26:18,343 - INFO - 127.0.0.1 - - [15/Jul/2024 16:26:18] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 16:54:37,981 - INFO - 127.0.0.1 - - [15/Jul/2024 16:54:37] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-15 16:56:42,655 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 16:56:43,078 - INFO -  * Restarting with stat
+2024-07-15 16:56:48,270 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 16:56:48,630 - INFO -  * Restarting with stat
+2024-07-15 17:03:03,638 - INFO - 127.0.0.1 - - [15/Jul/2024 17:03:03] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:30:10,755 - INFO - 127.0.0.1 - - [15/Jul/2024 17:30:10] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 17:33:47,849 - INFO - 127.0.0.1 - - [15/Jul/2024 17:33:47] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:34:42,239 - INFO - 127.0.0.1 - - [15/Jul/2024 17:34:42] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:37:04,562 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:37:05,130 - INFO -  * Restarting with stat
+2024-07-15 17:37:07,692 - INFO - 127.0.0.1 - - [15/Jul/2024 17:37:07] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:38:38,364 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:38:38,897 - INFO -  * Restarting with stat
+2024-07-15 17:38:41,269 - INFO - 127.0.0.1 - - [15/Jul/2024 17:38:41] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:40:26,709 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:40:27,249 - INFO -  * Restarting with stat
+2024-07-15 17:40:29,446 - INFO - 127.0.0.1 - - [15/Jul/2024 17:40:29] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:45:36,956 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:45:37,404 - INFO -  * Restarting with stat
+2024-07-15 17:45:40,545 - INFO - 127.0.0.1 - - [15/Jul/2024 17:45:40] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:46:25,019 - INFO - 127.0.0.1 - - [15/Jul/2024 17:46:25] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 17:46:46,237 - INFO - 127.0.0.1 - - [15/Jul/2024 17:46:46] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:48:55,576 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:48:55,790 - INFO -  * Restarting with stat
+2024-07-15 17:49:06,771 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:49:06,953 - INFO -  * Restarting with stat
+2024-07-15 17:49:34,446 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:49:34,672 - INFO -  * Restarting with stat
+2024-07-15 17:49:44,166 - INFO - 127.0.0.1 - - [15/Jul/2024 17:49:44] "[35m[1mPOST /student/course/listing HTTP/1.1[0m" 500 -
+2024-07-15 17:49:44,200 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 363, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    application_iter = app(environ, start_response)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 948, in app
+    raise err from None
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 937, in run_command
+    app: WSGIApplication = info.load_app()
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 339, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\wsgi.py", line 1, in <module>
+    from school import school
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\school.py", line 11, in <module>
+    from signup import routes
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\signup\routes.py", line 10, in <module>
+    school.config['JWT_ACCESS_TOKEN_EXPIRES'] = datetime.timedelta(days=1)
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'datetime' is not defined. Did you forget to import 'datetime'
+2024-07-15 17:50:30,162 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:50:30,532 - INFO -  * Restarting with stat
+2024-07-15 17:50:33,799 - INFO - 127.0.0.1 - - [15/Jul/2024 17:50:33] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:52:56,748 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:52:56,909 - INFO -  * Restarting with stat
+2024-07-15 17:52:59,068 - INFO - 127.0.0.1 - - [15/Jul/2024 17:52:59] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:54:33,400 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-15 17:54:33,690 - INFO -  * Restarting with stat
+2024-07-15 17:54:37,547 - INFO - 127.0.0.1 - - [15/Jul/2024 17:54:37] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 17:57:50,293 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:57:50,701 - INFO -  * Restarting with stat
+2024-07-15 17:57:57,718 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\signup\\routes.py', reloading
+2024-07-15 17:57:58,070 - INFO -  * Restarting with stat
+2024-07-15 17:58:09,702 - INFO - 127.0.0.1 - - [15/Jul/2024 17:58:09] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 17:58:58,484 - INFO - 127.0.0.1 - - [15/Jul/2024 17:58:58] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-15 17:59:15,031 - INFO - 127.0.0.1 - - [15/Jul/2024 17:59:15] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-15 18:11:37,750 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\models.py', reloading
+2024-07-15 18:11:38,191 - INFO -  * Restarting with stat
+2024-07-16 10:38:22,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-16 10:38:22,588 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-16 10:38:22,598 - INFO -  * Restarting with stat
+2024-07-16 10:38:30,241 - INFO - 127.0.0.1 - - [16/Jul/2024 10:38:30] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 10:38:39,519 - INFO - 127.0.0.1 - - [16/Jul/2024 10:38:39] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-16 10:41:12,847 - INFO - 127.0.0.1 - - [16/Jul/2024 10:41:12] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 10:46:55,958 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 10:46:56,100 - INFO -  * Restarting with stat
+2024-07-16 10:51:36,486 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 10:51:36,715 - INFO -  * Restarting with stat
+2024-07-16 10:52:10,420 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 10:52:10,613 - INFO -  * Restarting with stat
+2024-07-16 10:58:15,207 - INFO - 127.0.0.1 - - [16/Jul/2024 10:58:15] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 11:00:59,424 - INFO - 127.0.0.1 - - [16/Jul/2024 11:00:59] "POST /login HTTP/1.1" 200 -
+2024-07-16 11:02:17,679 - INFO - 127.0.0.1 - - [16/Jul/2024 11:02:17] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-16 11:08:41,760 - INFO - 127.0.0.1 - - [16/Jul/2024 11:08:41] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 11:09:41,147 - INFO - 127.0.0.1 - - [16/Jul/2024 11:09:41] "[31m[1mPOST /login/credentials HTTP/1.1[0m" 400 -
+2024-07-16 11:10:49,070 - INFO - 127.0.0.1 - - [16/Jul/2024 11:10:49] "POST /login HTTP/1.1" 200 -
+2024-07-16 11:10:54,994 - INFO - 127.0.0.1 - - [16/Jul/2024 11:10:54] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-16 11:12:04,164 - INFO - 127.0.0.1 - - [16/Jul/2024 11:12:04] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 11:12:39,485 - INFO - 127.0.0.1 - - [16/Jul/2024 11:12:39] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 11:15:59,590 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\models.py', reloading
+2024-07-16 11:15:59,887 - INFO -  * Restarting with stat
+2024-07-16 11:17:34,673 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:17:34,901 - INFO -  * Restarting with stat
+2024-07-16 11:20:49,428 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:20:50,018 - INFO -  * Restarting with stat
+2024-07-16 11:21:40,202 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:21:40,681 - INFO -  * Restarting with stat
+2024-07-16 11:21:53,359 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:21:53,601 - INFO -  * Restarting with stat
+2024-07-16 11:22:51,546 - INFO - 127.0.0.1 - - [16/Jul/2024 11:22:51] "POST /fetch/students HTTP/1.1" 200 -
+2024-07-16 11:25:29,275 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:25:29,870 - INFO -  * Restarting with stat
+2024-07-16 11:25:41,941 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:25:42,363 - INFO -  * Restarting with stat
+2024-07-16 11:27:03,902 - INFO - 127.0.0.1 - - [16/Jul/2024 11:27:03] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-16 11:28:01,813 - INFO - 127.0.0.1 - - [16/Jul/2024 11:28:01] "POST /fetch/students HTTP/1.1" 200 -
+2024-07-16 11:29:24,843 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:29:25,337 - INFO -  * Restarting with stat
+2024-07-16 11:29:30,513 - INFO - 127.0.0.1 - - [16/Jul/2024 11:29:30] "POST /fetch/students HTTP/1.1" 200 -
+2024-07-16 11:30:07,937 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:30:08,323 - INFO -  * Restarting with stat
+2024-07-16 11:30:11,135 - INFO - 127.0.0.1 - - [16/Jul/2024 11:30:11] "POST /fetch/students HTTP/1.1" 200 -
+2024-07-16 11:34:36,575 - INFO - 127.0.0.1 - - [16/Jul/2024 11:34:36] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-16 11:39:35,114 - INFO - 127.0.0.1 - - [16/Jul/2024 11:39:35] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-16 11:40:07,419 - INFO - 127.0.0.1 - - [16/Jul/2024 11:40:07] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-16 11:42:40,410 - INFO - 127.0.0.1 - - [16/Jul/2024 11:42:40] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 11:43:05,388 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\models.py', reloading
+2024-07-16 11:43:05,806 - INFO -  * Restarting with stat
+2024-07-16 11:43:10,288 - INFO - 127.0.0.1 - - [16/Jul/2024 11:43:10] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 11:45:32,284 - INFO - 127.0.0.1 - - [16/Jul/2024 11:45:32] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 11:45:58,430 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 11:45:58,987 - INFO -  * Restarting with stat
+2024-07-16 11:46:01,058 - INFO - 127.0.0.1 - - [16/Jul/2024 11:46:01] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 12:03:19,229 - INFO - 127.0.0.1 - - [16/Jul/2024 12:03:19] "POST /login/credentials HTTP/1.1" 200 -
+2024-07-16 12:04:00,017 - INFO - 127.0.0.1 - - [16/Jul/2024 12:04:00] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 12:10:06,607 - INFO - 127.0.0.1 - - [16/Jul/2024 12:10:06] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 12:21:12,207 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\models.py', reloading
+2024-07-16 12:21:12,369 - INFO -  * Restarting with stat
+2024-07-16 12:22:49,517 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 12:22:50,007 - INFO -  * Restarting with stat
+2024-07-16 12:37:16,220 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 12:37:16,478 - INFO -  * Restarting with stat
+2024-07-16 12:40:25,449 - INFO - 127.0.0.1 - - [16/Jul/2024 12:40:25] "[35m[1mPOST /create/student HTTP/1.1[0m" 500 -
+2024-07-16 12:40:25,493 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 363, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    application_iter = app(environ, start_response)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 948, in app
+    raise err from None
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 937, in run_command
+    app: WSGIApplication = info.load_app()
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 339, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\wsgi.py", line 1, in <module>
+    from school import school
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\school.py", line 10, in <module>
+    from studentss import routes
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\studentss\routes.py", line 37
+    print(user_first_name)
+IndentationError: unexpected indent
+2024-07-16 12:41:40,326 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 12:41:40,914 - INFO -  * Restarting with stat
+2024-07-16 12:41:49,871 - INFO - 127.0.0.1 - - [16/Jul/2024 12:41:49] "[35m[1mPOST /create/student HTTP/1.1[0m" 500 -
+2024-07-16 12:41:49,918 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 363, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    application_iter = app(environ, start_response)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 948, in app
+    raise err from None
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 937, in run_command
+    app: WSGIApplication = info.load_app()
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 339, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\wsgi.py", line 1, in <module>
+    from school import school
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\school.py", line 10, in <module>
+    from studentss import routes
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\studentss\routes.py", line 11, in <module>
+    school.config['JWT_ACCESS_TOKEN_EXPIRES'] = datetime.timedelta(days=1)
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'datetime' is not defined. Did you forget to import 'datetime'
+2024-07-16 12:42:30,237 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 12:42:30,819 - INFO -  * Restarting with stat
+2024-07-16 12:42:40,739 - INFO - 127.0.0.1 - - [16/Jul/2024 12:42:40] "[35m[1mPOST /create/student HTTP/1.1[0m" 500 -
+2024-07-16 12:42:40,777 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 363, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    application_iter = app(environ, start_response)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 948, in app
+    raise err from None
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 937, in run_command
+    app: WSGIApplication = info.load_app()
+                           ^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 339, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\wsgi.py", line 1, in <module>
+    from school import school
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\school.py", line 11, in <module>
+    from signup import routes
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\signup\routes.py", line 40, in <module>
+    @school.route('/login/credentials',methods=['POST'])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\sansio\scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\sansio\scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\projects\flask_project\student_managment_system\myenv\Lib\site-packages\flask\sansio\app.py", line 657, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: LoginCredentials
+2024-07-16 12:43:54,142 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 12:43:54,426 - INFO -  * Restarting with stat
+2024-07-16 12:43:58,114 - INFO - 127.0.0.1 - - [16/Jul/2024 12:43:58] "POST /create/student HTTP/1.1" 200 -
+2024-07-16 13:06:13,946 - INFO - 127.0.0.1 - - [16/Jul/2024 13:06:13] "GET /student_details HTTP/1.1" 200 -
+2024-07-16 13:08:12,559 - INFO - 127.0.0.1 - - [16/Jul/2024 13:08:12] "POST /login/credential HTTP/1.1" 200 -
+2024-07-16 13:09:00,734 - INFO - 127.0.0.1 - - [16/Jul/2024 13:09:00] "POST /login/credential HTTP/1.1" 200 -
+2024-07-16 13:10:39,594 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 13:10:40,091 - INFO -  * Restarting with stat
+2024-07-16 13:10:43,195 - INFO - 127.0.0.1 - - [16/Jul/2024 13:10:43] "POST /login/credential HTTP/1.1" 200 -
+2024-07-16 13:17:37,691 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 13:17:38,022 - INFO -  * Restarting with stat
+2024-07-16 13:17:52,331 - INFO - 127.0.0.1 - - [16/Jul/2024 13:17:52] "POST /login/credential HTTP/1.1" 200 -
+2024-07-16 13:21:22,115 - INFO - 127.0.0.1 - - [16/Jul/2024 13:21:22] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-16 13:27:05,646 - INFO - 127.0.0.1 - - [16/Jul/2024 13:27:05] "POST /student/course/listing HTTP/1.1" 200 -
+2024-07-16 13:28:20,201 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\projects\\flask_project\\student_managment_system\\studentss\\routes.py', reloading
+2024-07-16 13:28:20,747 - INFO -  * Restarting with stat
+2024-07-16 13:28:25,996 - INFO - 127.0.0.1 - - [16/Jul/2024 13:28:25] "POST /course/student/listing HTTP/1.1" 200 -
+2024-07-16 13:28:50,788 - INFO - 127.0.0.1 - - [16/Jul/2024 13:28:50] "POST /course/student/listing HTTP/1.1" 200 -

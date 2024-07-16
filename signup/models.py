@@ -8,3 +8,4 @@ class UsersSignup(Document):
     email=StringField(default="")
     username=StringField(default="")
     password=StringField(default="")
+    access_token=StringField(default="")
